@@ -37,7 +37,7 @@ public class Main {
                 case 3:
                     System.out.println("Exiting Water Refilling Station System. Goodbye!");
                     break;
-                default:2
+                default:
                     System.out.println("Invalid option. Please choose between 1 and 3.");
             }
             System.out.println();
